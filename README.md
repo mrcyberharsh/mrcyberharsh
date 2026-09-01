@@ -1,8 +1,9 @@
+
 <h1 align="center">Hi, I'm Harsh Saini 👋</h1>
 <h3 align="center">Founder of <a href="https://github.com/mrcyberharsh">MR CYBER</a> — practical, no-jargon cybersecurity tools for India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Self-taught+Cybersecurity+Developer;5%2B+Years+of+Hands-on+Experience;Building+Security+Tools+for+Everyday+Indians;Complex+ko+simple.+Simple+ko+powerful." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Self-taught+Cybersecurity+Developer;5%2B+Years+of+Hands-on+Experience;Building+Security+Tools+for+Everyday+Indians;Complex+ko+simple.+Simple+ko+powerful." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -43,6 +44,28 @@
   <img src="https://img.shields.io/badge/Nmap-4682B4?style=flat-square&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
+
+---
+
+### 🤝 Paid Collaboration & Partnership
+
+I'm open to **paid collaborations, partnerships, tool licensing, and consulting engagements**.
+
+All commercial inquiries are handled by my manager:
+
+📬 **Manager:** `manager.prachi@zohomail.in`
+
+For direct technical inquiries: `cyber.h4rsh@zohomail.in`
+
+#### What we can do together:
+
+- 🛠️ **Custom tool development** — build tailored security tools for your needs
+- 🔍 **OSINT solutions** — intelligence gathering, threat profiling
+- 🛡️ **Security assessments** — vulnerability scanning, network audits
+- 📋 **Compliance advisory** — CERT‑In, DPDP, ISO 27001 readiness
+- 🧾 **White‑label licensing** — rebrand and resell MR CYBER tools
+
+📌 *Let's build something powerful together.*
 
 ---
 
