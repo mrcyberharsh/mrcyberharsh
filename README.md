@@ -55,8 +55,6 @@ All commercial inquiries are handled by my manager:
 
 📬 **Manager:** `manager.prachi@zohomail.in`
 
-For direct technical inquiries: `cyber.h4rsh@zohomail.in`
-
 #### What we can do together:
 
 - 🛠️ **Custom tool development** — build tailored security tools for your needs
