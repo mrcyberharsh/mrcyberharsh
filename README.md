@@ -85,7 +85,7 @@ All commercial inquiries are handled by my manager:
 <p align="center">
   <a href="https://mrcyberharsh.github.io/mrcyber/"><img src="https://img.shields.io/badge/Website-MR%20CYBER-00FF41?style=for-the-badge" /></a>
   <a href="https://www.linkedin.com/in/harsh-saini-a7866641b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:cyber.h4rsh@zohomail.in"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:manager.prachi@zohomail.in"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><i>"Complex ko simple. Simple ko powerful."</i></p>
