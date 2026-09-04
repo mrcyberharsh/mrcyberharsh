@@ -47,13 +47,20 @@
 
 ---
 
-### 🤝 Paid Collaboration & Partnership
+### 🤝 Paid Collaboration & Licensing
 
-I'm open to **paid collaborations, partnerships, tool licensing, and consulting engagements**.
+I'm open to paid collaborations, tool licensing, and consulting engagements. 
+*(Note: Automated checkout is currently paused; all commercial acquisitions are handled manually).*
 
-All commercial inquiries are handled by my manager:
+All inquiries and custom billing/licensing requests are handled by my manager:
+📬 **Manager:** manager.prachi@zohomail.in
+✉️ **CC:** cyber.h4rsh@zohomail.in
 
-📬 **Manager:** `manager.prachi@zohomail.in`
+#### 💳 Payment Methods Accepted:
+- Direct Bank Transfer (NEFT/IMPS)
+- Corporate UPI
+- Manual Invoicing
+
 
 #### What we can do together:
 
