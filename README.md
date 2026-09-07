@@ -96,3 +96,4 @@ All inquiries and custom billing/licensing requests are handled by my manager:
 </p>
 
 <p align="center"><i>"Complex ko simple. Simple ko powerful."</i></p>
+**All public free tools are now officially discontinued and moved to a private/paid model. The extensive R&D and 5+ years of experience behind these projects deserve professional acknowledgment, not misuse or abuse. For serious inquiries, collaborations, or enterprise access, feel free to reach out directly. Respect is a two-way street**
