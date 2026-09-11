@@ -1,40 +1,53 @@
 
-<h1 align="center">Hi, I'm Harsh Saini 👋</h1>
-<h3 align="center">Founder of <a href="https://github.com/mrcyberharsh">MR CYBER</a> — practical, no-jargon cybersecurity tools for India</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Self-taught+Cybersecurity+Developer;5%2B+Years+of+Hands-on+Experience;Building+Security+Tools+for+Everyday+Indians;Complex+ko+simple.+Simple+ko+powerful." alt="Typing SVG" />
-</p>
+# Harsh Saini
+### Founder, MR CYBER — Practical Cybersecurity Tools for India
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/harsh-saini-a7866641b"><img src="https://img.shields.io/badge/LinkedIn-Harsh%20Saini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:cyber.h4rsh@zohomail.in"><img src="https://img.shields.io/badge/Email-cyber.h4rsh%40zohomail.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=1E293B&center=true&vCenter=true&width=650&lines=Self-Taught+Cybersecurity+Developer;5%2B+Years+of+Hands-on+Linux+Experience;Building+Security+Products+for+Everyday+Indians;Complex+ko+simple.+Simple+ko+powerful." alt="Typing SVG" />
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Harsh%20Saini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-saini-a7866641b)
+[![Website](https://img.shields.io/badge/Website-MR%20CYBER-1E293B?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mrcyberharsh.github.io/mrcyber/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manager.prachi@zohomail.in)
 
-### 🧭 About Me
-
-- 🔐 I build **affordable, practical cybersecurity tools** for freelancers, small businesses, and everyday Indian users
-- 🎓 Certified via **Cisco, NASSCOM, and Skill India**
-- 📖 Author of **"The Unseen Human Firewall"** — a book on human-centric social engineering awareness
-- 🧬 My journey started in **Biology (B.Sc — Botany/Zoology/Chemistry)** before merging into cybersecurity
-- 🇮🇳 Everything I build is India-first: real problems, plain language, no unnecessary jargon
+</div>
 
 ---
 
-### 🛠️ Tools Under MR CYBER
+## About
 
-| Tool | What it does |
-|---|---|
-| 🟩 [**MR QR Scanner**](https://github.com/mrcyberharsh/mr-qr-scanner) | QR scanning + UPI scam detection + URL safety checks (Web, Windows, Linux, Android) |
-| 🕵️ [**Dark Web Breach Monitor**](https://github.com/mrcyberharsh/breach-monitor) | Client-side email/password breach checker — no data ever leaves your browser |
-| 🛡️ [**SMB Vulnerability Scanner**](https://github.com/mrcyberharsh/smb-scanner) | Detects open port 445, SMBv1, disabled signing, null sessions |
-| 📋 [**Pentest Report Builder**](https://github.com/mrcyberharsh/pentest-builder) | Raw scan output → CVSS scoring → client-ready PDF report |
+I design and build affordable, jargon-free cybersecurity tools for freelancers, small businesses, and everyday users in India, under the **MR CYBER** brand.
+
+- 🔐 5+ years of hands-on Linux experience; networking fundamentals via Cisco (CCNA-track)
+- 🎓 Certified through **Cisco**, **NASSCOM**, and **Skill India**
+- 📖 Author, *"The Unseen Human Firewall"* — an 18-chapter book on human-centric social engineering awareness
+- 🧬 Background in Biology (B.Sc — Botany / Zoology / Chemistry) before transitioning into cybersecurity
+- 🇮🇳 India-first philosophy: real problems, plain language, no unnecessary jargon
 
 ---
 
-### ⚙️ Tech & Tools
+## Flagship Products — MR CYBER
+
+| Product | Description | Status |
+|---|---|---|
+| **MR QR Scanner** | QR decoding with UPI scam detection and URL safety checks. Ships for Web, Windows, Linux, and Android. | Private / Paid |
+| **Dark Web Breach Monitor** | Client-side email and password breach checker — no data ever leaves the browser. | Private / Paid |
+| **SMB Vulnerability Scanner** | Detects common SMB misconfigurations: open port 445, SMBv1, disabled signing, null sessions. | Private / Paid |
+| **Pentest Finding & Report Builder** | Turns raw scan output into CVSS-scored, client-ready reports, with CERT-In and DPDP compliance mapping built in. | Private / Paid |
+| **MR CYBER Compliance Tracker** | Windows desktop GRC tool tracking CERT-In and DPDP Act compliance controls with dashboards and audit-ready exports. | In Development |
+
+> All public/free tiers have moved to a private, paid model. Five-plus years of R&D sit behind these tools — access is licensed, not given away. Serious inquiries and enterprise access are welcome.
+
+---
+
+## Publications
+
+- **"The Unseen Human Firewall"** — 18-chapter book on social engineering and human-layer security awareness, published under the pen name *Mr Cyber Harsh Saini*.
+- Compressed NEET-focused Class 12 Biology notes, in development for publication.
+
+---
+
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -47,53 +60,47 @@
 
 ---
 
-### 🤝 Paid Collaboration & Licensing
+## Collaboration & Licensing
 
-I'm open to paid collaborations, tool licensing, and consulting engagements. 
-*(Note: Automated checkout is currently paused; all commercial acquisitions are handled manually).*
+Open to paid collaborations, tool licensing, and consulting engagements.
 
-All inquiries and custom billing/licensing requests are handled by my manager:
-📬 **Manager:** manager.prachi@zohomail.in
-✉️ **CC:** cyber.h4rsh@zohomail.in
+**What we can build together:**
+- Custom security tool development
+- OSINT and threat profiling
+- Vulnerability assessments and network audits
+- CERT-In, DPDP, and ISO 27001 compliance advisory
+- White-label licensing of MR CYBER tools
 
-#### 💳 Payment Methods Accepted:
-- Direct Bank Transfer (NEFT/IMPS)
-- Corporate UPI
-- Manual Invoicing
+*Automated checkout is currently paused — all commercial acquisitions are handled manually.*
 
+**Manager:** manager.prachi@zohomail.in
+**CC:** cyber.h4rsh@zohomail.in
 
-#### What we can do together:
-
-- 🛠️ **Custom tool development** — build tailored security tools for your needs
-- 🔍 **OSINT solutions** — intelligence gathering, threat profiling
-- 🛡️ **Security assessments** — vulnerability scanning, network audits
-- 📋 **Compliance advisory** — CERT‑In, DPDP, ISO 27001 readiness
-- 🧾 **White‑label licensing** — rebrand and resell MR CYBER tools
-
-📌 *Let's build something powerful together.*
+**Payment methods:** Direct bank transfer (NEFT/IMPS) · Corporate UPI · Manual invoicing
 
 ---
 
-### 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mrcyberharsh&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FFCC&text_color=c9d1d9" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcyberharsh&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=c9d1d9" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mrcyberharsh&show_icons=true&theme=default&hide_border=true&title_color=1E293B&icon_color=0A66C2&text_color=333" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrcyberharsh&layout=compact&theme=default&hide_border=true&title_color=1E293B&text_color=333" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrcyberharsh&theme=github-dark-blue&hide_border=true&background=0D1117&ring=00FF41&fire=00FFCC&currStreakLabel=00FF41" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrcyberharsh&theme=default&hide_border=true&ring=0A66C2&fire=D14836&currStreakLabel=1E293B" />
 </p>
 
 ---
 
-### 📫 Connect
+<div align="center">
 
-<p align="center">
-  <a href="https://mrcyberharsh.github.io/mrcyber/"><img src="https://img.shields.io/badge/Website-MR%20CYBER-00FF41?style=for-the-badge" /></a>
-  <a href="https://www.linkedin.com/in/harsh-saini-a7866641b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:manager.prachi@zohomail.in"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+### Connect
 
-<p align="center"><i>"Complex ko simple. Simple ko powerful."</i></p>
-**All public free tools are now officially discontinued and moved to a private/paid model. The extensive R&D and 5+ years of experience behind these projects deserve professional acknowledgment, not misuse or abuse. For serious inquiries, collaborations, or enterprise access, feel free to reach out directly. Respect is a two-way street**
+[![Website](https://img.shields.io/badge/Website-MR%20CYBER-1E293B?style=for-the-badge)](https://mrcyberharsh.github.io/mrcyber/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-saini-a7866641b)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manager.prachi@zohomail.in)
+
+*"Complex ko simple. Simple ko powerful."*
+
+</div>
