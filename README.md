@@ -16,7 +16,7 @@
 
 ## About
 
-I design and build affordable, jargon-free cybersecurity tools for freelancers, small businesses, and everyday users in India, under the **MR CYBER** brand.
+I design and build affordable, jargon-free cybersecurity tools for freelancers, small businesses, and everyday users in India, under the **MR CYBER PULSE** brand.
 
 - 🔐 5+ years of hands-on Linux experience; networking fundamentals via Cisco (CCNA-track)
 - 🎓 Certified through **Cisco**, **NASSCOM**, and **Skill India**
@@ -26,7 +26,7 @@ I design and build affordable, jargon-free cybersecurity tools for freelancers, 
 
 ---
 
-## Flagship Products — MR CYBER
+## Flagship Products — MR CYBER PULSE
 
 | Product | Description | Status |
 |---|---|---|
@@ -69,7 +69,7 @@ Open to paid collaborations, tool licensing, and consulting engagements.
 - OSINT and threat profiling
 - Vulnerability assessments and network audits
 - CERT-In, DPDP, and ISO 27001 compliance advisory
-- White-label licensing of MR CYBER tools
+- White-label licensing of MR CYBER PULSE tools
 
 *Automated checkout is currently paused — all commercial acquisitions are handled manually.*
 
