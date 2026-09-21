@@ -2,7 +2,7 @@
 <div align="center">
 
 # Harsh Saini
-### Founder, MR CYBER — Practical Cybersecurity Tools for India
+### Founder, MR CYBER PULSE — Practical Cybersecurity Tools for India
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&color=1E293B&center=true&vCenter=true&width=650&lines=Self-Taught+Cybersecurity+Developer;5%2B+Years+of+Hands-on+Linux+Experience;Building+Security+Products+for+Everyday+Indians;Complex+ko+simple.+Simple+ko+powerful." alt="Typing SVG" />
 
