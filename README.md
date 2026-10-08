@@ -18,7 +18,7 @@
 
 I design and build affordable, jargon-free cybersecurity tools for freelancers, small businesses, and everyday users in India, under the **MR CYBER PULSE** brand.
 
-- 🔐 5+ years of hands-on Linux experience; networking fundamentals via Cisco (CCNA-track)
+- 🔐 5+ years of hands-on Linux experience; networking fundamentals via Cisco 
 - 🎓 Certified through **Cisco**, **NASSCOM**, and **Skill India**
 - 📖 Author, *"The Unseen Human Firewall"* — an 18-chapter book on human-centric social engineering awareness
 - 🧬 Background in Biology (B.Sc — Botany / Zoology / Chemistry) before transitioning into cybersecurity
